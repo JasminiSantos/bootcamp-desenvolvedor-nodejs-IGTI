@@ -1,4 +1,4 @@
-<h1>Desafio Prático</h1>
+<h1>Trabalho Prático</h1>
 
 <h2>Enunciado</h2>
 
